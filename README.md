@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌐 Data Scientist and AI enthusiast living in Amsterdam
+- 🎹 Working in music and technology
+- 👯 Looking to collaborate on AI automation tools and ML recommendation systems
+- 📫 Reach out at seansanchez951@gmail.com
+
 <!--
 **seansanchez951/seansanchez951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
