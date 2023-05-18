@@ -2,7 +2,7 @@
 
 - 🌐 Data Scientist and AI enthusiast living in Amsterdam
 - 🎹 Working in music and technology
-- 👯 Looking to collaborate on AI automation tools and ML recommendation systems
+- 🔍 Focus on AI driven recommendation systems
 - 📫 Reach out at seansanchez951@gmail.com
 
 <!--
